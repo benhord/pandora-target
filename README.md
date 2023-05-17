@@ -1,0 +1,1 @@
+This is the package to generate the target list for the Pandora SmallSat. Currently under construction!
